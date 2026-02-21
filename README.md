@@ -4,7 +4,7 @@ I am currenctly a first-year Computer Engineering student at Gazi University. I'
 
 ### What I'm Up To
 - Currently learning C and C++.
-- Since I am engineering student I'm getting better at Math and Linear Algebra.
+- Since I'm an engineering student I'm getting better at Math and Linear Algebra.
 - Trying to learn how linux works.
 - Interested in how software interacts with hardware, like RAM.
 
